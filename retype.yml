@@ -5,12 +5,12 @@ url: https://playerbplaytime.github.io/aihispano-shapes-links
 branding:
   title: AI Hispano: Shapes Links
   label: Shapes Links
+  logo: assets/a.png
 
 poweredByRetype: false
 
 links:
   - text: AI Hispano Shapes Info
-    link: # Replace with the URL of your getting started guide
+    link: 
 
 footer:
-  copyright: "&copy; AI Hispano 2024. All rights reserved."
