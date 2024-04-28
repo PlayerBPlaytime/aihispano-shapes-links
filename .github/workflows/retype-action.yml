@@ -5,6 +5,8 @@ on:
     branches:
       - main
 
+url: https://playerbplaytime.github.io/aihispano-shapes-links
+
 jobs:
   publish:
     name: Publish to retype branch
