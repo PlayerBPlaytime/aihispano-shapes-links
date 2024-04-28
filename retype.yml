@@ -5,7 +5,7 @@ url: https://playerbplaytime.github.io/aihispano-shapes-links
 branding:
   title: 
   label: 
-  logo: assets/a.png
+  logo: ../assets/a.png
 
 poweredByRetype: true
 
