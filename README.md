@@ -4,7 +4,7 @@ Este sitio web es una colección de enlaces relacionados con el proyecto de AI H
 
 **Información:**
 
-(Reemplaza esto con un enlace a tu guía de inicio)
+* (Reemplaza esto con un enlace a tu guía de inicio)
 
 **Enlaces:**
 
