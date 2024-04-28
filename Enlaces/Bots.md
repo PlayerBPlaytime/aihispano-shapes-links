@@ -1,4 +1,4 @@
-## :icon-link: Lista de shapes de AI Hispano
+## :icon-link: Lista de shapes de AI Hispano **mas en camino**
 
 **Blaise**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1190147758116589648&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1190147758116589648&permissions=67584&scope=bot)
