@@ -1,4 +1,6 @@
+---
 ## :icon-link: Lista de shapes de AI Hispano (*mas en camino*)
+---
 
 **Blaise**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1190147758116589648&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1190147758116589648&permissions=67584&scope=bot)
@@ -35,3 +37,7 @@
 
 **Anthony**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot)
+
+---
+[!button target="blank" text="Solicitar eliminación del bot"](https://1nv9n3eq6sb.typeform.com/to/enEgJHS7)
+---
