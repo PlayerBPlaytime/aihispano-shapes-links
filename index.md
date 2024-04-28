@@ -4,10 +4,10 @@ Este sitio web es una colección de enlaces relacionados con el proyecto de AI H
 
 **Información:**
 
-* (Reemplaza esto con un enlace a tu guía de inicio)
+* https://playerbplaytime.github.io/aihispano-shapes-links/enlaces/bots/
 
 **Enlaces:**
 
-* (Enlace a una sección o página dentro de tu sitio Retype)
+* https://playerbplaytime.github.io/aihispano-shapes-links/enlaces/bots/
 
 Esperamos que este sitio web te sea útil.
