@@ -1,14 +1,8 @@
----
-icon: question
----
-## **¿Cómo se hicieron los shapes?**
+## **:icon-question: ¿Cómo se hicieron los shapes?**
 
 Los shapes se crearon mediante **aprendizaje automático**, entrenando un modelo con mensajes reales de usuarios. El modelo aprendió a identificar patrones y responder a preguntas especificas.
 
----
-icon: question
----
-**¿Cómo puedo crear un shape?**
+**:icon-question: ¿Cómo puedo crear un shape?**
 
 1. Accede a la plataforma Shapes Inc. (https://shapes.inc) o al Discord oficial (https://discord.gg/shapes).
 2. Crea una cuenta y crea el shape.
