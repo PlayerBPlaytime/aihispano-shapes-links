@@ -18,8 +18,5 @@ links:
     link: https://github.com/PlayerBPlaytime/aihispano-shapes-links
     icon: mark-github
 
-navigation:
-  landingPage: lobby.md
-
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
