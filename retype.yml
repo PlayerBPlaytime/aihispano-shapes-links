@@ -12,8 +12,10 @@ poweredByRetype: true
 links:
   - text: AI Hispano Discord
     link: https://discord.gg/IAHispano
+    icon: icon-rocket
   - text: AI Hispano Remake Discord
     link: https://discord.gg/aTHt2Mp9
+    icon: icon-rocket
   - text: GitHub
     link: https://github.com/PlayerBPlaytime/aihispano-shapes-links
     icon: mark-github
