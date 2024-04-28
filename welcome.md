@@ -8,6 +8,6 @@ Este sitio web es una colección de enlaces relacionados con el proyecto de AI H
 
 **Enlaces:**
 
-* https://playerbplaytime.github.io/aihispano-shapes-links/enlaces/bots/
+* https://playerbplaytime.github.io/aihispano-shapes-links/informacion/shapes/
 
 Esperamos que este sitio web te sea útil.
