@@ -7,7 +7,7 @@ branding:
   label: Shapes Links
   logo: assets/a.png
 
-poweredByRetype: false
+poweredByRetype: true
 
 links:
   - text: AI Hispano Shapes Info
