@@ -39,5 +39,5 @@
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot)
 
 ---
-[!button target="blank" text="Solicitar eliminación del bot"](https://1nv9n3eq6sb.typeform.com/to/enEgJHS7)
+[!button target="blank" text="Solicitar eliminación del bot"](https://forms.gle/D4GvjwofrTJJGEeu9)
 ---
