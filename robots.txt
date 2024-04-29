@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://playerbplaytime.github.io/aihispano-shapes-links/sitemap.xml.gz
+Sitemap: https://aihispano-shapeslinks.github.io/sitemap.xml.gz
