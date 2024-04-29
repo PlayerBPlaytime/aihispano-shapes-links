@@ -1,5 +1,5 @@
-input: ./assets
-output: .retype
+input: /assets
+output: retype
 
 name: AI Hispano
 
