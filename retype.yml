@@ -1,6 +1,9 @@
+input: ./assets
+output: .retype
+
 name: AI Hispano
 
-url: https://playerbplaytime.github.io/aihispano-shapes-links
+url: https://aihispano-shapeslinks.github.io/
 
 branding:
   title: AI Hispano
