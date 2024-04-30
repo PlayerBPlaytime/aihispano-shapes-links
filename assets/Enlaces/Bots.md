@@ -41,6 +41,8 @@
 **Anthony**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1231301744051359826&permissions=67584&scope=bot)
 
+**! Rock !**
+* Link: [https://discord.com/api/oauth2/authorize?client_id=1234638586532593664&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1234638586532593664&permissions=67584&scope=bot)
 ---
 [!button target="blank" text="Solicitar eliminación del bot"](https://forms.gle/D4GvjwofrTJJGEeu9)
 ---
