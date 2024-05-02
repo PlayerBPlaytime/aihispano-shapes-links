@@ -1,5 +1,5 @@
 ---
-## :icon-link: Lista de shapes de AI Hispano (*mas en camino*)
+## :icon-link: Lista de shapes de AI Hispano (*WIP*)
 ---
 
 **Blaise**
@@ -7,6 +7,9 @@
 
 **Deivih**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1234209021821718660&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1234209021821718660&permissions=67584&scope=bot)
+
+**Applio**
+* Link: [https://discord.com/api/oauth2/authorize?client_id=1234979346368823427&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1234979346368823427&permissions=67584&scope=bot)
 
 **Light**
 * Link: [https://discord.com/api/oauth2/authorize?client_id=1230755212277321748&permissions=67584&scope=bot](https://discord.com/api/oauth2/authorize?client_id=1230755212277321748&permissions=67584&scope=bot)
